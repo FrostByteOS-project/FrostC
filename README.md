@@ -1,6 +1,8 @@
 # FrostC
-A fairly lightweight standard C library for FrostByteOS
+A fairly lightweight standard C library for FrostByteOS 
+
 Contains a subset of POSIX C headers with a bit of extensions.
+
 CURRENTLY IT'S VERY LIMITED PORTING EXISTING SOFTWARE IS PRACTICALLY IMPOSSIBLE PLEASE HAVE THAT IN MIND
 
 # Building
